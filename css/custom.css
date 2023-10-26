@@ -1,0 +1,20 @@
+/* 
+
+1. Add your custom Css styles below
+2. Place the this code in your template: 
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+
+.link a:hover{
+    color:#1c4669 !important;
+}
+
+.linkfooter a:hover{
+    color:#fac374 !important;
+}
+
+.content-line{
+    color:#fac374;
+}
